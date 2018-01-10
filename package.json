@@ -18,7 +18,7 @@
     "react": "^16.0.0"
   },
   "dependencies": {
-    "donny-auth": "^1.0.2",
+    "donny-auth": "github:pmsorhaindo/donny-auth#617b0ffd9c6ee47e682cc25a5585cd8efb1e4a59",
     "jwt-decode": "^2.2.0"
   },
   "devDependencies": {
